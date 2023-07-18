@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(180deg, #f382c0 0%, #66dbf5 100%);
+}
+
+.img{
+    border-radius: 300px;
+    width: 300px;
+
+}
+.text{
+    text-align: center;
+}
+
+.underline{
+    color: #3d09e9;
+}
+
+.div{
+    text-align: center;
+    color: bisque;
+}
+
+.second-img{
+    background-image: url("GIFT\ IMG.JPEG");
+    width: 300px;
+    height: 150px;
+    width: 600px;
+    height: 600px;
+    border: 8px white solid;
+    border-radius: 25px;
+     margin: 0 auto;
+     background-size: cover;
+}
+
+.second-img:hover {
+    background-image: url("giphy\ \(1\).gif");
+    background-size: cover;
+
+}
+
+.third-img{
+    background-image: url("GIFT\ IMG.JPEG");
+    width: 300px;
+    height: 150px;
+    width: 600px;
+    height: 600px;
+    border: 8px white solid;
+    border-radius: 25px;
+     margin: 0 auto;
+     background-size: cover;
+}
+
+.third-img:hover {
+    background-image: url("giphy\ \(2\).gif");
+    background-size: cover;
+
+}
+
+.fourth-img{
+    background-image: url("GIFT\ IMG.JPEG");
+    width: 900px;
+    height: 900px;
+    background-position: 0px 0px;
+    border: 8px white solid; 
+    border-radius: 25px;
+    margin: 0 auto;
+    background-size: cover;
+    box-shadow: 17px 14px 23px 5px rgba(235,12,106,0.7);
+}
+
+.fourth-img:hover {
+    background-image: url("giphy\ \(5\).gif");
+    background-size: cover;
+    background-position: -500px 0px;
+
+}
